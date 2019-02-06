@@ -1,0 +1,34 @@
+.cutitle {
+	text-align: center;
+  	width: 27%;
+ 	margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    font-family: 'Source Serif Pro', serif;
+}
+
+.contactinfo {
+	width: 40%;
+	margin-left: 40%;
+	margin-top: 30px;
+}
+
+.email, .phone, .address {
+  margin-top: 20px;
+}
+
+.emailicon, .phoneicon, .addressicon {
+	width: 4%;
+	margin-right: 2%;
+	margin-top: 0px;
+}
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: black;
+	text-align: center;
+	font-size: 13px;
+}
